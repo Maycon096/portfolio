@@ -40,8 +40,6 @@ body {
   }
 
   .container{
-     width: 8vw; /* 8% da largura da viewport */
-      height: auto;
     padding: 0px 70px;
   }
 
